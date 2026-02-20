@@ -2,7 +2,7 @@
 
 A **simple, responsive Student Finance Tracker** built with **HTML, CSS, and JavaScript**.  
 Tracks expenses, allows regex search, shows stats, and supports **currency conversion** with **USD as the base currency**.
-
+## link to video url -> [https://chat.google.com/dm/yc09GiAAAAE/HrzvF_Yo21U/HrzvF_Yo21U?cls=10 ](https://youtu.be/ioLOL2SdBq8)
 ---
 
 ## Features
